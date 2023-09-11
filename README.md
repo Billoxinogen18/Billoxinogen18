@@ -14,16 +14,17 @@ Experienced mobile developer with a passion for innovation and a track record of
 
 ## Skills
 
-- Mobile Engineering ![Mobile Engineering Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
-- Android Development (Java & Kotlin) ![Android Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
-- RxJava ![RxJava Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- Spring Boot ![Spring Boot Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)
-- Problem Solving ![Problem Solving Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg)
-- Leadership ![Leadership Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/leader/leader-original.svg)
-- Communication ![Communication Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg)
-- Creativity ![Creativity Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg)
-- Adaptability ![Adaptability Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg)
-- Flexibility ![Flexibility Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+- Mobile Engineering <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="20" height="20">
+- Android Development (Java & Kotlin) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="20" height="20">
+- RxJava <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20">
+- Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20">
+- Problem Solving <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" width="20" height="20">
+- Leadership <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leader/leader-original.svg" width="20" height="20">
+- Communication <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="20" height="20">
+- Creativity <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg" width="20" height="20">
+- Adaptability <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg" width="20" height="20">
+- Flexibility <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20">
+
 
 
 ## Experience
