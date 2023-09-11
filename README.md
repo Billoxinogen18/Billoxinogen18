@@ -71,8 +71,6 @@ Experienced mobile developer with a passion for innovation and a track record of
 
 ## GitHub Stats and Contributions
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billoxinogen18&show_icons=true&theme=radical)](https://github.com/Billoxinogen18)
-
 [![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Billoxinogen18&layout=compact&theme=radical)](https://github.com/Billoxinogen18)
 
 ## Let's Connect
