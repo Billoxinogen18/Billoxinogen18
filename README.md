@@ -14,16 +14,17 @@ Experienced mobile developer with a passion for innovation and a track record of
 
 ## Skills
 
-- Mobile Engineering <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="20" height="20">
-- Android Development (Java & Kotlin) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="20" height="20">
-- RxJava <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20">
-- Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20">
-- Problem Solving <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" width="20" height="20">
-- Leadership <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leader/leader-original.svg" width="20" height="20">
-- Communication <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="20" height="20">
-- Creativity <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg" width="20" height="20">
-- Adaptability <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg" width="20" height="20">
-- Flexibility <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20">
+- Mobile Engineering <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Mobile Engineering Icon" width="20" height="20" style="vertical-align:middle">
+- Android Development (Java & Kotlin) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Icon" width="20" height="20" style="vertical-align:middle">
+- RxJava <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="RxJava Icon" width="20" height="20" style="vertical-align:middle">
+- Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot Icon" width="20" height="20" style="vertical-align:middle">
+- Problem Solving <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" alt="Problem Solving Icon" width="20" height="20" style="vertical-align:middle">
+- Leadership <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leader/leader-original.svg" alt="Leadership Icon" width="20" height="20" style="vertical-align:middle">
+- Communication <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Communication Icon" width="20" height="20" style="vertical-align:middle">
+- Creativity <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg" alt="Creativity Icon" width="20" height="20" style="vertical-align:middle">
+- Adaptability <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg" alt="Adaptability Icon" width="20" height="20" style="vertical-align:middle">
+- Flexibility <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Flexibility Icon" width="20" height="20" style="vertical-align:middle">
+
 
 
 
