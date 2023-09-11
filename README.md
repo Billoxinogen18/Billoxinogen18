@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/billisrael/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/Billoxinogen18)
+[![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:bisrael88@gmail.com)
 
 Experienced mobile developer with a passion for innovation and a track record of success in building startups and leading cross-functional teams. Proficient in Java, Kotlin, JavaScript, Python, and more.
 
@@ -29,8 +30,9 @@ Experienced mobile developer with a passion for innovation and a track record of
 ### Senior Mobile Developer at Tappi
 
 - Engineered the MVP for Tappi, securing investments and high-profile media coverage.
-- Spearheaded payment integration via Flutterwave, increasing revenue by 20%.
+- Spearheaded premium payment integration via Flutterwave, increasing revenue by 20%.
 - Transformed development processes with Gradle automation, enhancing efficiency across Android projects.
+- Mentored junior developers with comprehensive architecture documentation, reducing bug reports by 50%.
 
 ### Tech Lead at Chamaah
 
@@ -67,7 +69,12 @@ Experienced mobile developer with a passion for innovation and a track record of
 - Spearheaded the creation of automated builds using new Gradle mechanisms, increasing development efficiency by 30%.
 - Orchestrated regular innovation sessions that led to the creation of impactful features, enriching user experiences.
 
+## GitHub Stats and Contributions
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Billoxinogen18&show_icons=true&theme=radical)](https://github.com/Billoxinogen18)
+
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Billoxinogen18&layout=compact&theme=radical)](https://github.com/Billoxinogen18)
+
 ## Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billisrael/) for collaboration and networking opportunities. I'm always excited to explore new challenges and innovative projects.
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billisrael/) for collaboration and networking opportunities. You can also reach me via [email](mailto:bisrael88@gmail.com) or follow me on [GitHub](https://github.com/Billoxinogen18). I'm always excited to explore new challenges and innovative projects.
