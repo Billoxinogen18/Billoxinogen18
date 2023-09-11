@@ -14,14 +14,16 @@ Experienced mobile developer with a passion for innovation and a track record of
 
 ## Skills
 
+## Skills
+
 - Mobile Engineering <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Mobile Engineering Icon" width="20" height="20" style="vertical-align:middle">
 - Android Development (Java & Kotlin) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Icon" width="20" height="20" style="vertical-align:middle">
 - RxJava <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="RxJava Icon" width="20" height="20" style="vertical-align:middle">
 - Spring Boot <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot Icon" width="20" height="20" style="vertical-align:middle">
-- Problem Solving <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/algorithm/algorithm-original.svg" alt="Problem Solving Icon" width="20" height="20" style="vertical-align:middle">
-- Leadership <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leader/leader-original.svg" alt="Leadership Icon" width="20" height="20" style="vertical-align:middle">
+- Problem Solving <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" alt="Problem Solving Icon" width="20" height="20" style="vertical-align:middle">
+- Leadership <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Leadership Icon" width="20" height="20" style="vertical-align:middle">
 - Communication <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Communication Icon" width="20" height="20" style="vertical-align:middle">
-- Creativity <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg" alt="Creativity Icon" width="20" height="20" style="vertical-align:middle">
+- Creativity <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="Creativity Icon" width="20" height="20" style="vertical-align:middle">
 - Adaptability <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg" alt="Adaptability Icon" width="20" height="20" style="vertical-align:middle">
 - Flexibility <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Flexibility Icon" width="20" height="20" style="vertical-align:middle">
 
