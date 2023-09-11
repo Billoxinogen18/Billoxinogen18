@@ -1,16 +1,73 @@
-### Hi there 👋
+# Bill Israel - Senior Android Developer
 
-<!--
-**Billoxinogen18/Billoxinogen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/billisrael/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/Billoxinogen18)
 
-Here are some ideas to get you started:
+Experienced mobile developer with a passion for innovation and a track record of success in building startups and leading cross-functional teams. Proficient in Java, Kotlin, JavaScript, Python, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+
+- Experienced mobile developer with a proven track record of building startups and leading cross-functional teams to launch innovative platforms.
+- Skilled in designing and maintaining CRM-based systems, developing applications, and implementing automation mechanisms.
+- Proficient in Java, Kotlin, JavaScript, Python, and other programming languages.
+
+## Skills
+
+- Mobile Engineering
+- Android Development (Java & Kotlin)
+- RxJava
+- Spring Boot
+- Problem Solving
+- Leadership
+- Communication
+- Creativity
+- Adaptability
+- Flexibility
+
+## Experience
+
+### Senior Mobile Developer at Tappi
+
+- Engineered the MVP for Tappi, securing investments and high-profile media coverage.
+- Spearheaded payment integration via Flutterwave, increasing revenue by 20%.
+- Transformed development processes with Gradle automation, enhancing efficiency across Android projects.
+
+### Tech Lead at Chamaah
+
+- Co-founded a fintech startup that empowers SMEs to create savings groups, driving a 20% increase in financial stability among users.
+- Developed an innovative application enabling users to access cash advances with a seamless borrowing process.
+- Orchestrated low-interest loans for over 50 trustworthy clients, fostering business growth and financial well-being.
+- Led the design and implementation of the application's user interface, resulting in a 30% enhancement in user satisfaction.
+
+### Co-Founder at LittleGig
+
+- Co-established a location-based social platform with AI and Machine Learning, generating 6,000 downloads in the first 6 months.
+- Garnered international recognition with features from prestigious accelerators across Africa and the United States.
+- Led a team of developers to deliver a fully functional MVP that gained traction through its user-friendly interface.
+- Strategized and executed marketing campaigns resulting in a 300% increase in user engagement within the first year.
+
+### Android Developer at Ajua
+
+- Collaborated on MTN EnGauge, a CRM-based platform that elevated SME engagement by 40%.
+- Enhanced transaction efficiency by 25% through feature development and optimizations.
+- Integrated third-party payment gateways, reducing payment processing time by 15%.
+- Improved app stability with a 20% reduction in crash rates through comprehensive bug fixing.
+
+### Senior Android Developer at Priority Mobile
+
+- Served as the lead Android developer, guiding the development of Afya Pepe, a healthcare application.
+- Engineered Afya Pepe to drastically reduce rural healthcare appointment times by 40%, enhancing accessibility to medical care.
+- Successfully converted 25% of the user base into paying customers, resulting in improved revenue streams.
+- Enhanced task fulfillment time by 40% through streamlining the user interface and optimizing the application's workflow.
+
+### Tech Lead at Holistic Digital
+
+- Oversaw the development of On the Go, a web and mobile platform, resulting in a remarkable 200% increase in user engagement.
+- Collaborated with cross-functional teams to build a platform that queried and reserved information on the latest events in significant cities.
+- Spearheaded the creation of automated builds using new Gradle mechanisms, increasing development efficiency by 30%.
+- Orchestrated regular innovation sessions that led to the creation of impactful features, enriching user experiences.
+
+## Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billisrael/) for collaboration and networking opportunities. I'm always excited to explore new challenges and innovative projects.
+
