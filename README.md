@@ -37,7 +37,6 @@ Experienced mobile developer with a passion for innovation and a track record of
 - Engineered the MVP for Tappi, securing investments and high-profile media coverage.
 - Spearheaded premium payment integration via Flutterwave, increasing revenue by 20%.
 - Transformed development processes with Gradle automation, enhancing efficiency across Android projects.
-- Mentored junior developers with comprehensive architecture documentation, reducing bug reports by 50%.
 
 ### Tech Lead at Chamaah
 
